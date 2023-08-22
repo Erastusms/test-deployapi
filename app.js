@@ -1,4 +1,4 @@
-require("dotenv").config();
+// require("dotenv").config();
 const express = require("express");
 const app = express();
 const port = process.env.DB_PORT || 3000;
@@ -10,9 +10,14 @@ app.use(express.json());
 app.use(cors());
 app.use(express.static("public"));
 
-const routes = require("./routes");
-app.use(routes);
-
-app.listen(port, () => {
-  console.log("App is running in port: ", port);
+app.get("/", (req, res) => {
+  res.status(200).json({
+    message: "Hello world"
+  })
 });
+// const routes = require("./routes");
+// app.use(routes);
+
+// app.listen(port, () => {
+//   console.log("App is running in port: ", port);
+// });
