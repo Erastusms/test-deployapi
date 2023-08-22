@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Aliyudin",
+        "email": "ali@gmail.com",
+        "password": "123",
+        "birthdate": "1999-02-19",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "user"
+    },
+    {
+        "name": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin",
+        "birthdate": "2000-09-09",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "admin"
+    },
+    {
+        "name": "Sakata Mbappe",
+        "email": "mbappe@gmail.com",
+        "password": "12345",
+        "birthdate": "1998-05-24",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "user"
+    },
+    {
+        "name": "Nicolo Kante",
+        "email": "kante@gmail.com",
+        "password": "12345",
+        "birthdate": "1988-12-17",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "user"
+    },
+    {
+        "name": "Tanaka Jimmy",
+        "email": "tanaka@gmail.com",
+        "password": "12345",
+        "birthdate": "1978-11-09",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "user"
+    },
+    {
+        "name": "Samuel Law",
+        "email": "samuel@gmail.com",
+        "password": "12345",
+        "birthdate": "1999-01-29",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "user"
+    },
+    {
+        "name": "Trafalgar Zaniolo",
+        "email": "zan@gmail.com",
+        "password": "12345",
+        "birthdate": "1989-02-12",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "user"
+    },
+    {
+        "name": "Nirina Uzumaki",
+        "email": "nirina@gmail.com",
+        "password": "12345",
+        "birthdate": "1998-05-24",
+        "gender": "Female",
+        "avatar": "blank.png",
+        "type": "user"
+    },
+    {
+        "name": "Nico Robin",
+        "email": "robin@gmail.com",
+        "password": "12345",
+        "birthdate": "1983-07-09",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "user"
+    },
+    {
+        "name": "Markus Gunawan",
+        "email": "markus@gmail.com",
+        "password": "12345",
+        "birthdate": "2002-09-12",
+        "gender": "Male",
+        "avatar": "blank.png",
+        "type": "user"
+    }
+]

@@ -1,0 +1,524 @@
+[
+    {
+        "actor_name": "Tim Robbins",
+        "char_name": "Andy Dufresne",
+        "year_date": "1958",
+        "filename": "Tim.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 1
+    },
+    {
+        "actor_name": "Morgan Freeman",
+        "char_name": "Ellis Boyd Redding",
+        "year_date": "1937",
+        "filename": "Morgan.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 1
+    },
+    {
+        "actor_name": "Bob Gunton",
+        "char_name": "Warden Samuel Norton",
+        "year_date": "1945",
+        "filename": "Bob.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 1
+    },
+    {
+        "actor_name": "William Sadler",
+        "char_name": "Heywood",
+        "year_date": "1950",
+        "filename": "William.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 1
+    },
+    {
+        "actor_name": "Clancy Brown",
+        "char_name": "Captain Byron T. Hadley",
+        "year_date": "1959",
+        "filename": "Clancy.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 1
+    },
+    {
+        "actor_name": "Tom Hiddleston",
+        "char_name": "Loki Laufeyson",
+        "year_date": "1981",
+        "filename": "Loki.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 2
+    },
+    {
+        "actor_name": "Owen Wilson",
+        "char_name": "Mobius M. Mobius",
+        "year_date": "1968",
+        "filename": "Mobius.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 2
+    },
+    {
+        "actor_name": "Sophia Di Martino",
+        "char_name": "Sylvie",
+        "year_date": "1983",
+        "filename": "Sylvie.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 2
+    },
+    {
+        "actor_name": "Gugu Mbatha-Raw",
+        "char_name": "Ravonna Renslayer",
+        "year_date": "1986",
+        "filename": "Ravonna.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 2
+    },
+    {
+        "actor_name": "Gemma Chan",
+        "char_name": "Sersi",
+        "year_date": "1982",
+        "filename": "GemmaChan.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 3
+    },
+    {
+        "actor_name": "Richard Madden",
+        "char_name": "Ikaris",
+        "year_date": "1986",
+        "filename": "RichardMadden.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 3
+    },
+    {
+        "actor_name": "Kumail Nanjiani",
+        "char_name": "Kingo",
+        "year_date": "1978",
+        "filename": "KumailNanjiani.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 3
+    },
+    {
+        "actor_name": "Lia McHugh",
+        "char_name": "Sprite",
+        "year_date": "2007",
+        "filename": "Lia.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 3
+    },
+    {
+        "actor_name": "Brian Tyree Henry",
+        "char_name": "Phastos",
+        "year_date": "1982",
+        "filename": "Brian.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 3
+    },
+    {
+        "actor_name": "Vin Diesel",
+        "char_name": "Dominic Toretto",
+        "year_date": "1967",
+        "filename": "Vin.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 4
+    },
+    {
+        "actor_name": "Michelle Rodriguez",
+        "char_name": "Letty Ortiz",
+        "year_date": "1978",
+        "filename": "Letty.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 4
+    },
+    {
+        "actor_name": "Tyrese Gibson",
+        "char_name": "Roman Pearce",
+        "year_date": "1978",
+        "filename": "Roman.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 4
+    },
+    {
+        "actor_name": "Ludacris",
+        "char_name": "Tej Parker",
+        "year_date": "1977",
+        "filename": "Tej.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 4
+    },
+    {
+        "actor_name": "John Cena",
+        "char_name": "Jakob Toretto",
+        "year_date": "1977",
+        "filename": "Jakob.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 4
+    },
+    {
+        "actor_name": "Brie Larson",
+        "char_name": "Carol Danvers",
+        "year_date": "1989",
+        "filename": "Carol.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 5
+    },
+    {
+        "actor_name": "Samuel L. Jackson",
+        "char_name": "Nick Fury",
+        "year_date": "1948",
+        "filename": "Nick.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 5
+    },
+    {
+        "actor_name": "Ben Mendelsohn",
+        "char_name": "Talos",
+        "year_date": "1969",
+        "filename": "Talos.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 5
+    },
+    {
+        "actor_name": "Jude Law",
+        "char_name": "Yon-Rogg",
+        "year_date": "1972",
+        "filename": "Jude.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 5
+    },
+    {
+        "actor_name": "Annette Bening",
+        "char_name": "Supreme Intelligence",
+        "year_date": "1958",
+        "filename": "Annette.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 5
+    },
+    {
+        "actor_name": "Jacob Tremblay",
+        "char_name": "Luca Paguro",
+        "year_date": "2006",
+        "filename": "JacobTremblay.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 6
+    },
+    {
+        "actor_name": "Jack Dylan Grazer",
+        "char_name": "Alberto Scorfano",
+        "year_date": "2003",
+        "filename": "JackDylan.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 6
+    },
+    {
+        "actor_name": "Emma Berman",
+        "char_name": "Giulia Marcovaldo",
+        "year_date": "1998",
+        "filename": "EmmaBerman.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 6
+    },
+    {
+        "actor_name": "Saverio Raimondo",
+        "char_name": "Ercole Visconti",
+        "year_date": "1984",
+        "filename": "Saverio.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 6
+    },
+    {
+        "actor_name": "Maya Rudolph",
+        "char_name": "Daniela Paguro",
+        "year_date": "1972",
+        "filename": "MayaRudolph.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 6
+    },
+    {
+        "actor_name": "Scarlett Johansson",
+        "char_name": "Natasha Romanoff",
+        "year_date": "1984",
+        "filename": "Natasha.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 7
+    },
+    {
+        "actor_name": "Florence Pugh",
+        "char_name": "Yelena Belova",
+        "year_date": "1996",
+        "filename": "Yelena.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 7
+    },
+    {
+        "actor_name": "Rachel Weisz",
+        "char_name": "Melina Vostokoff",
+        "year_date": "1970",
+        "filename": "Rachel.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 7
+    },
+    {
+        "actor_name": "David Harbour",
+        "char_name": "Alexei Shostakov",
+        "year_date": "1974",
+        "filename": "David.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 7
+    },
+    {
+        "actor_name": "LeBron James",
+        "char_name": "LeBron James",
+        "year_date": "1984",
+        "filename": "LeBron.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 8
+    },
+    {
+        "actor_name": "Don Cheadle",
+        "char_name": "Al G. Rhythm",
+        "year_date": "1964",
+        "filename": "Don.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 8
+    },
+    {
+        "actor_name": "Cedric Joe",
+        "char_name": "Dominic 'Dom' James",
+        "year_date": "1995",
+        "filename": "Cedric.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 8
+    },
+    {
+        "actor_name": "Jeff Bergman",
+        "char_name": "Bugs Bunny ",
+        "year_date": "1960",
+        "filename": "Jeff.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 8
+    },
+    {
+        "actor_name": "Zendaya",
+        "char_name": "Lola Bunny",
+        "year_date": "1996",
+        "filename": "Zendaya.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 8
+    },
+    {
+        "actor_name": "Chris Pratt",
+        "char_name": "Dan Forester",
+        "year_date": "1979",
+        "filename": "Chris.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 9
+    },
+    {
+        "actor_name": "Yvonne Strahovski",
+        "char_name": "Romeo Command",
+        "year_date": "1982",
+        "filename": "Romeo.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 9
+    },
+    {
+        "actor_name": "J.K. Simmons",
+        "char_name": "Slade",
+        "year_date": "1955",
+        "filename": "Simmons.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 9
+    },
+    {
+        "actor_name": "Betty Gilpin",
+        "char_name": "Emmy",
+        "year_date": "1986",
+        "filename": "Emmy.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 9
+    },
+    {
+        "actor_name": "Sam Richardson",
+        "char_name": "Charlie",
+        "year_date": "1984",
+        "filename": "Sam.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 9
+    },
+    {
+        "actor_name": "Patrick Wilson",
+        "char_name": "Ed Warren",
+        "year_date": "1973",
+        "filename": "Ed.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 10
+    },
+    {
+        "actor_name": "Vera Farmiga",
+        "char_name": "Lorraine Warren",
+        "year_date": "1973",
+        "filename": "Vera.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 10
+    },
+    {
+        "actor_name": "Ruairi O'Connor",
+        "char_name": "Arne Cheyne Johnson",
+        "year_date": "1991",
+        "filename": "Arne.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 10
+    },
+    {
+        "actor_name": "Sarah Catherine Hook",
+        "char_name": "Debbie Glatzel",
+        "year_date": "1990",
+        "filename": "Sarah.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 10
+    },
+    {
+        "actor_name": "John Noble",
+        "char_name": "Father Kastner",
+        "year_date": "1948",
+        "filename": "John.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 10
+    },
+    {
+        "actor_name": "Jeremy Renner",
+        "char_name": "Clint Barton",
+        "year_date": "1971",
+        "filename": "Clint.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 11
+    },
+    {
+        "actor_name": "Brenton Thwaites",
+        "char_name": "Dick Grayson",
+        "year_date": "1989",
+        "filename": "Brenton.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 12
+    },
+    {
+        "actor_name": "Dwayne Johnson",
+        "char_name": "Frank Wolff",
+        "year_date": "1972",
+        "filename": "Rock.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 13
+    },
+    {
+        "actor_name": "Hugh Jackman",
+        "char_name": "Nicolas 'Nick' Bannister",
+        "year_date": "1968",
+        "filename": "Hugh.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 14
+    },
+    {
+        "actor_name": "Matt Damon",
+        "char_name": "Bill Baker",
+        "year_date": "1970",
+        "filename": "Matt.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 15
+    },
+    {
+        "actor_name": "Bella Thorne",
+        "char_name": "Vivien",
+        "year_date": "1997",
+        "filename": "Bella.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 16
+    },
+    {
+        "actor_name": "Oscar Isaac",
+        "char_name": "William Tell",
+        "year_date": "1979",
+        "filename": "Oscar.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 17
+    },
+    {
+        "actor_name": "Aghniny Haque",
+        "char_name": "Ayu",
+        "year_date": "1997",
+        "filename": "Ayu.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 18
+    },
+    {
+        "actor_name": "Alex Honnold",
+        "char_name": "Self",
+        "year_date": "1985",
+        "filename": "Alex.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 19
+    },
+    {
+        "actor_name": "Alicia Vikander",
+        "char_name": "Kathy",
+        "year_date": "1988",
+        "filename": "Alicia.jpg",
+        "filesize": "8kb",
+        "filetype": "jpg",
+        "MovieId": 20
+    }
+]
