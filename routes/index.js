@@ -5,9 +5,9 @@ const { adminAuth } = require("../middlewares/auth");
 const adminRouter = require("./admin");
 const apiRouter = require("./api");
 
-router.get("/", (req, res) => {
+router.get("/test", (req, res) => {
   res.status(200).json({
-    message: "Hello world"
+    message: "Testing"
   })
 });
 
