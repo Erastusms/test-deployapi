@@ -18,6 +18,7 @@ app.use(express.json());
 // app.use(express.urlencoded());
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
+app.use(express.static('public'));
 
 // app.get('/', (req, res) => {
 //   res.status(200).json({
@@ -43,8 +44,8 @@ router.get('/', (req, res) => {
 
 // Mount the router middleware
 app.use(router);
-// const routes = require("./routes");
-// app.use(routes);
+const routes = require("./routes");
+app.use(routes);
 
 // Start the server and listen for incoming connections
 app.listen(port, () => {
